@@ -1,3 +1,9 @@
+# python (and other) package TTPs
+
+some pypi malware collections:
+
+https://github.com/rsc-dev/pypi_malware
+
 
 ## stealing browser credentials
 
@@ -30,5 +36,6 @@ pattern: `(http|https):\/\/(([0-9]{1,3}\.){3}([0-9]{0,3}))`
 https://www.bleepingcomputer.com/news/security/devs-targeted-by-w4sp-stealer-malware-in-malicious-pypi-packages/
 
 pattern: cdn.discordapp.com
+
 
 
